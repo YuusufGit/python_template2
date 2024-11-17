@@ -1,5 +1,5 @@
 ## How to Run
-1. Make sure you have Python 3.x installed on your system.
+1. Make sure you have Python 3.12.7 installed on your system because that's what I used.
 2. Clone this repository to your local machine: https://github.com/YuusufGit/python_template2.git
 
 3. Go to the `src` directory:
