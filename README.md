@@ -62,3 +62,8 @@ The code is really just made up of a bunch of functions and if statements used t
 
 Based off of the cepheus game <: :>
                                 M
+
+Additional stuff I added:
+I tweaked some things in the output of the game because the instructions weren't clear on the cepheus game rules. The things I changed are Polities and world alliance,
+Communication routes and trade routes
+
